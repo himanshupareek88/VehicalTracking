@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Vehical Tracking</string>
+    <string name="action_settings">Settings</string>
+    <!-- Location Activity Tags-->
+        <string name="message_ok">Ok</string>
+    <string name="message_enableLocation">Location Enable?</string>
+
+    <string name="message_locationdesc">To track Vehical we need to access your location</string>
+    <string name="message_location">start or stop location Tracking</string>
+    <string name="message_readwrite">Please Enable?</string>
+    <string name="message_readwriteenable">We Need this permission to write Tracking inforamtion in to a  file in sd card</string>
+
+
+    <!-- Location Activity Tags end-->
+
+
+</resources>
